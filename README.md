@@ -1,2 +1,2 @@
-# tosm-chart
+# tosm&chart
 для тестовых наработок 
